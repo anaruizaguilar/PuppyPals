@@ -1,8 +1,14 @@
 #root {
+  background-color: cadetblue;
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: right;
+}
+
+.featured-pup {
+  display:inline-block;
+  margin: 10px;
 }
 
 .logo {
