@@ -20,6 +20,7 @@ function App() {
       { featPupId && (
         <div class="featured-pup">
           <h2>{featuredPup.name}</h2>
+          <img src={featuredPup.image} width="40%" height="30%" />
           <ul>
             <li>Age: {featuredPup.age}</li>
             <li>Email: {featuredPup.email}</li>

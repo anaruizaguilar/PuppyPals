@@ -2,6 +2,7 @@ export const puppyList = [
     {
       id: 1,
       name: "Sir Waggington",
+      image: "http://tinyurl.com/4xyds75b",
       email: "sir-wag@email.com",
       isCute: true,
       age: 5,
@@ -14,6 +15,7 @@ export const puppyList = [
     {
       id: 2,
       name: "Fiona Penny Pickles",
+      image: "http://tinyurl.com/5n7kyf3v",
       email: "pick-your-pennies@email.com",
       isCute: true,
       age: 6,
@@ -23,6 +25,7 @@ export const puppyList = [
     {
       id: 3,
       name: "Professor Wagglesworth",
+      image: "http://tinyurl.com/4f8zw2td",
       email: "waggie@email.com",
       isCute: true,
       age: 6,
@@ -32,6 +35,7 @@ export const puppyList = [
     {
       id: 4,
       name: "Sergeant Barkowitz",
+      image: "http://tinyurl.com/3vrazssn",
       email: "the-sarge@email.com",
       isCute: true,
       age: 4,
@@ -41,6 +45,7 @@ export const puppyList = [
     {
       id: 5,
       name: "Captain Sniffer",
+      image: "http://tinyurl.com/zry8kptf",
       email: "capn-sniff@email.com",
       isCute: true,
       age: 7,
@@ -50,6 +55,7 @@ export const puppyList = [
     {
       id: 6,
       name: "Miss Furbulous",
+      image: "http://tinyurl.com/mw88k4rj",
       email: "miss-furby@email.com",
       isCute: true,
       age: 1,
@@ -59,6 +65,7 @@ export const puppyList = [
     {
       id: 7,
       name: "Alfred von Wigglebottom",
+      image: "http://tinyurl.com/2vzcuhjd",
       email: "alfie@email.com",
       isCute: true,
       age: 2,
